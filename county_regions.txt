@@ -1,0 +1,27 @@
+Shasta	North-Central-Valley	089
+Butte	North-Central-Valley	007
+Glenn	North-Central-Valley	021
+Yuba	North-Central-Valley	115
+Lake	North-Central-Valley	033
+Placer	North-Central-Valley	061
+Sutter	North-Central-Valley	101
+Yolo	Sacramento-Yolo	113
+Sacramento	Sacramento-Yolo	067
+Solano	South-Central-Valley	095
+Calaveras	South-Central-Valley	009
+San Joaquin	South-Central-Valley	077
+Contra Costa	South-Central-Valley	013
+Alameda	South-Central-Valley	001
+Stanislaus	South-Central-Valley	099
+Madera	South-Central-Valley	039
+Merced	South-Central-Valley	047
+Fresno	South-Central-Valley	019
+Inyo	South-Central-Valley	027
+Tulare	South-Central-Valley	107
+Kings	South-Central-Valley	031
+Kern	Kern	029
+San Bernardino	South-CA	071
+Ventura	South-CA	111
+Los Angeles	South-CA	037
+Riverside	South-CA	065
+San Diego	San-Diego	073
