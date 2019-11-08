@@ -2,6 +2,8 @@
 
 This analysis was produced using data collected and generated as part of [West Nile 4k project](https://westnile4k.org/).
 
+[Youtube link](https://youtu.be/O4dSO9LyP7Y).
+
 Tree was generated using [BEAST v1.10.4](http://beast.community/).
 
 Rendered video is for use under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/) and available in [movie](./movie/wnv_ca_phylogeography.mp4).
